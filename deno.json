@@ -1,0 +1,9 @@
+{
+  "name": "@y87cgp/circular-list",
+  "version": "0.0.1",
+  "exports": "./mod.ts",
+
+  "imports": {
+    "@std/assert": "jsr:@std/assert@^0.220.1"
+  }
+}
